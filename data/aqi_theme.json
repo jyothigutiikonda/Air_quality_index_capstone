@@ -1,0 +1,14 @@
+{
+  "name": "AQI Theme",
+  "dataColors": [
+    "#00E400",
+    "#FFFF00",
+    "#FF7E00",
+    "#FF0000",
+    "#8F3F97",
+    "#7E0023"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#FF0000"
+}
