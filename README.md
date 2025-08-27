@@ -17,7 +17,8 @@
 
 
 ## PowerBI Dashboard
-Link:https://app.powerbi.com/reportEmbed?reportId=8b6ea46e-71de-4297-92ec-51b6ae394e72&autoAuth=true&ctid=101da587-1843-4f52-8b8a-17b069c66d33
+Link:
+https://app.powerbi.com/view?r=eyJrIjoiZjUwNDI4ODUtODgzMS00NDViLThlNGQtN2U2ZDU1YTkxZGVlIiwidCI6IjEwMWRhNTg3LTE4NDMtNGY1Mi04YjhhLTE3YjA2OWM2NmQzMyIsImMiOjJ9
 
 ## Motivation:
 Air pollution continues to be a pressing issue in urban areas, directly affecting public health, climate, and overall quality of life. Through this capstone project, I wanted to take the opportunity to research and analyze the Air Quality Index (AQI) across Tennessee and its neighboring states. This region offers a meaningful case study as it brings together rapidly growing urban centers with higher population density and surrounding rural areas with lower density, enabling valuable comparisons of air quality patterns.
